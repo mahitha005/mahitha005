@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahitha005
+- 👋 Hi, I’m Mahitha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 😄 Pronouns: her
